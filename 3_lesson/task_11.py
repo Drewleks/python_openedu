@@ -1,0 +1,5 @@
+s = input()
+s = s.replace('A', 'b')
+s = s.replace('B', 'A')
+s = s.replace('b', 'B')
+print(s)
