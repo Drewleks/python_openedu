@@ -1,0 +1,7 @@
+DEPOSIT Ivanov 100
+INCOME 5
+BALANCE Ivanov
+TRANSFER Ivanov Petrov 50
+WITHDRAW Petrov 100
+BALANCE Petrov
+BALANCE Sidorov
