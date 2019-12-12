@@ -1,0 +1,70 @@
+<table class="wikitable collapsible collapsed" style="float:right; margin:0 0 0.5em 1em; text-align:right; font-size:90%;">
+<tbody><tr>
+<th colspan="4" style="background:tan; text-align:center"><span style="color:black">City compared to State &amp; U.S.</span> 
+</th></tr>
+<tr style="background:#ccc; text-align:center;">
+<td><b><a href="/wiki/2010_United_States_Census" title="2010 United States Census">2010 Census</a></b><sup class="reference" id="cite_ref-QuickFacts2010_272-0"><a href="#cite_note-QuickFacts2010-272">[270]</a></sup><sup class="reference" id="cite_ref-273"><a href="#cite_note-273">[271]</a></sup></td>
+<td><b>NY City</b></td>
+<td><b>NY State</b></td>
+<td><b>U.S.</b>
+</td></tr>
+<tr>
+<td align="left">Total population</td>
+<td>8,175,133</td>
+<td>19,378,102</td>
+<td>308,745,538
+</td></tr>
+<tr>
+<td align="left">Population change, 2000 to 2010</td>
+<td>+2.1%</td>
+<td>+2.1%</td>
+<td>+9.7%
+</td></tr>
+<tr>
+<td align="left">Population density (people/sqmi)</td>
+<td>27,012.5</td>
+<td>411.2</td>
+<td>87.4
+</td></tr>
+<tr>
+<td align="left">Median household income (2015)</td>
+<td>$53,373</td>
+<td>$59,269</td>
+<td>$53,889
+</td></tr>
+<tr>
+<td align="left">Bachelor's degree or higher</td>
+<td>35.7%</td>
+<td>34.2%</td>
+<td>29.8%
+</td></tr>
+<tr>
+<td align="left">Foreign born</td>
+<td>37.2%</td>
+<td>22.5%</td>
+<td>13.2%
+</td></tr>
+<tr>
+<td align="left">White (non-Hispanic)</td>
+<td>44.0%</td>
+<td>65.7%</td>
+<td>72.4%
+</td></tr>
+<tr>
+<td align="left">Black</td>
+<td>25.5%</td>
+<td>15.9%</td>
+<td>12.6%
+</td></tr>
+<tr>
+<td align="left">Hispanic (any race)</td>
+<td>28.6%</td>
+<td>17.6%</td>
+<td>16.3%
+</td></tr>
+<tr>
+<td align="left">Asian</td>
+<td>12.7%</td>
+<td>7.3%</td>
+<td>4.8%
+</td></tr></tbody></table>
